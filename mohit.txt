@@ -1,0 +1,4 @@
+Pandas 
+Numpy
+Langchain
+CV2 
